@@ -55,15 +55,7 @@ I see myself as a combination of:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinaldoriant&show_icons=true&count_private=true" width="350"/>
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoriant&layout=compact"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=reinaldoriant&theme=onedark"/>
 </p>
 
 ---
